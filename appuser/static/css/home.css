@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.line4{
+    background-color: black;
+    height: 10px;
+}
+.line5{
+    background-color: rgb(54, 46, 46);
+    margin-top: 70px;
+    height: 80px;
+}
+.hed1{
+    color: white;
+    padding-left: 500px;
+    padding-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.icons{
+    padding-left: 60px;
+}
+.box1{
+    border: 1px solid black;
+    width:330px ;
+    height: 400px;
+}
+.box2{
+    border: 1px solid black;
+    width:300px ;
+    height: 400px;
+}
+.box3{
+    border: 1px solid black;
+    width:300px ;
+    height: 400px;
+}
+.box4{
+    border: 1px solid black;
+    width:300px ;
+    height: 400px;
+}
+
